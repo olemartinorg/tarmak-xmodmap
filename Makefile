@@ -1,7 +1,7 @@
 # Tarmak 1-4 xmodmap file generator
 #
 # Run 'make' inside this directory to create a bunch of xmodmap files based
-# on your current layout, along with another set of xmodmap files to reset
+# on your current layout, along with another xmodmap file to reset
 # back to your current layout
 
 # File names
